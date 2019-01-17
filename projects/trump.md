@@ -8,7 +8,7 @@ permalink: projects/trump
 date: 2017-12-3
 labels:
   - Java
-  summary: A mini-game group project for ICS 111.
+summary: A mini-game group project for ICS 111.
 ---
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.

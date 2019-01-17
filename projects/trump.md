@@ -8,7 +8,7 @@ permalink: projects/trump
 date: 2017-12-03
 labels:
   - Java
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A mini-game group project for ICS 111.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Trump.jpg">

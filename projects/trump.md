@@ -13,10 +13,10 @@ summary: A mini-game group project for ICS 111.
 
 <img class="ui medium right floated rounded image" src="../images/TrumpYell.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Trump shooter was one of the first "big" Java projects that I had to do in my college career. After learning the basics of Java, me and two other classmates had to come up with an idea of a game that worked properly with no bugs.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Within two weeks, we were able to come up with the idea of a scrolling shooter type of game, where Trump heads fly across the screen and you have to shoot them down.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This project helped me gain some basic Java understanding and coding experience, as it was my first semester learning anything CS related.
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>

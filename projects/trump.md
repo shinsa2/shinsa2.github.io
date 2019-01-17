@@ -5,14 +5,12 @@ image: images/Trump.jpg
 title: Trump Shooter
 permalink: projects/trump
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-12-3
 labels:
   - Java
   
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A mini-game group project for ICS 111.
 ---
-
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 

@@ -18,5 +18,3 @@ The Trump shooter was one of the first "big" Java projects that I had to do in m
 Within two weeks, we were able to come up with the idea of a scrolling shooter type of game, where Trump heads fly across the screen and you have to shoot them down.
 
 This project helped me gain some basic Java understanding and coding experience, as it was my first semester learning anything CS related.
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>

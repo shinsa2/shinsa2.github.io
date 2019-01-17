@@ -16,8 +16,8 @@ summary: A presentation for my speech class at Kapiolani Community College.
 
 
 
-Source: <a href="https://docs.google.com/presentation/d/15fJZsemTEtN4pkzcg1-vTRWClJSi3dyMYAogKc-8txo/edit?usp=sharing">jogarces/ics-313-text-game</a>
-<a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://docs.google.com/presentation/d/15fJZsemTEtN4pkzcg1-vTRWClJSi3dyMYAogKc-8txo/edit?usp=sharing">Dar Web</a>
+
 
 
 

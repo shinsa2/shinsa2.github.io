@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Trump.png
+image: shinsa2.github.io/images/Trump.jpg
 title: Trump Shooter
 permalink: projects/trump
 # All dates must be YYYY-MM-DD format!

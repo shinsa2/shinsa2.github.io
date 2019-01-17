@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: Trump.png
 title: Trump Shooter
 permalink: projects/trump
 # All dates must be YYYY-MM-DD format!

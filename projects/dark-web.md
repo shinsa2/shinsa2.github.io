@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/dark-web.jpg
 title: Dark Web
-permalink: projects/dark-web
+permalink: projects/molly.png
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-01
 labels:
@@ -12,7 +12,7 @@ labels:
 summary: A presentation for my speech class at Kapiolani Community College.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/dark-web.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/molly.png">
 
 For this project, I had to make a presentation of a topic that interested me. I chose the dark web, because it always seemed mysterious and people think of it as a dangerous place to be. This presentation helped me jump start my interest in the CS security field, as I was already interested in these things, but didn't start moving toward an education or career in this field until completion of this project.
 

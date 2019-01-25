@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/dark-web.jpg
 title: Dark Web
-permalink: projects/molly.png
+permalink: projects/dark-web
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-01
 labels:

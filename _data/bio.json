@@ -100,31 +100,12 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": " ",
-      "website": " ",
-      "position": " ",
-      "startDate": " ",
-      "endDate": " ",
-      "summary": " ",
-      "highlights": [
-        " "
-      ]
-    }
-  ],
   "awards": [
     {
-      "title": " ",
-      "date": " ",
-      "awarder": " ",
-      "summary": " "
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "Dean's list",
+      "date": "2014-2015",
+      "awarder": "Kapiolani Community College",
+      "summary": "Given to students who get a 3.5 gpa or higher with 15 or more total credits accumulated over Fall and/or Spring and/or Summer semesters (of one academic year). "
     }
   ],
   "references": [

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bamboo-ceiling.jpg
+image: images/molly.png
 title: Bamboo Ceiling
 permalink: projects/bamboo-ceiling
 # All dates must be YYYY-MM-DD format!

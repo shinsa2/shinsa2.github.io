@@ -1,18 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions Make Smart People
+title: ESLint-elliJ
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-24
 labels:
-  - Stack Overflow
-  - Smart Questions
-  - Reflection
+  - ESLint
+  - IntelliJ
+  - Coding Standards
 ---
 
-  Smart questions are a great way for software engineers to learn new things. To ask a smart question, one must have previously tried searching up answers online (ex. via Google), or on different FAQs/other web pages. If you're absolutely completely stumped on a question, then create a question explaining in detail what the problem is, what you've tried, etc, and how you finally ended up stuck on this problem. Because people like to help those that aren't "lazy" and just want answers, if you show that you are trying to learn something new, they will help. One might even suddenly realize the answer to their own question as they are writing the smart question, themselves. It is a good way for software engineers to critically think for themselves and think in a way that they wouldn't normally think, to get to the final answer, and if they can't, then that's fine as well. 
-  
-  A smart question I found online was about time complexity. The person knew very well about big O notation, and understood O(n), O(n^2), O(n!), etc. The person even put a function that was in O(n) time to show his/her understanding on the subject. However, he couldn't understand the height of a binary tree being O(log n) and what it meant for the height to be O(log n). There were many people willing to explain to him in great detail with different diagrams and numbers, showing what the log n meant. There are also many upvotes on the post and responses, so many others with the same question could see this post and understand it for themselves. This creates less posts asking about the same question, and is one of the first steps before asking a smart question, which is to search it up yourself.
-  On the other hand, I found a question on a similar topic. This one was asking for help understanding logarithms in big O notation. The question was very unclear, and someone added that that was the wrong place to discuss the topic. Another person added, "You might want to add additional information about your background. There seems to be a mismatch between what you understand and what you are asking. You don't seem to be 'stuck', you seem to have missed a year worth of lectures in various areas of mathematics and computer science... That's just vastly out of scope for Q&A format." This person got little to no help with his question, and even got a larger amount of downvotes than upvotes.
-  
-   The two different reactions from these posts show that smart questions actually work. People do respond differently based on how you present your question, and whether or not you really tried to learn on your own before asking the question. I haven't asked any questions on forums yet because I usually find answers or explanations through Google. When I do end up getting stuck on something though, I will make sure to ask a question in a smart way.
+  Coding standards are very important when typing code. It can not only visibly be easier to read (which is also very important), but it also helps the code writer to learn the language. When using an IDE such as Eclipse or IntelliJ, there are certain coding standards to follow, so that the code can run properly. In our ICS 314 class, we are using ESLint in IntelliJ for our coding standard. Other courses such as ICS 211 have a similar process for checking coding standards as well. 
+  These coding standards help to not only debug problems in our code, but once we get used to these coding standards, it eventually saves time when coding, because there will be less errors, which means less time spent fixing code. Starting from the small things such as indentation, adding semicolons, and even adding a new line at the end of the code, to missing brackets or unused variables, the ESLint coding errors are very helpful. Because there's a built-in error finder, it's easier to fix code. However, as you do this, you will learn over time what your mistakes are, and it helps you build on that. I find the ESLint coding standards to be very helpful because of the very specific errors it gives, and it gives a little green check mark at the top right corner when everything is up to the standards.

@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Beginning the Journey
+title: Importance of UI Frameworks
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-18
+date: 2019-02-21
 labels:
-  - Javascript
-  - Java
-  - Software Engineering
-  - Learning
+  - HTML
+  - CSS
+  - UI Frameworks
 ---
 
 As I'm fairly new to coding, I've only learned Java and just a little bit of Python. Currently I'm learning Javascript and C++ as well. In my personal opinion and from what I've learned so far about Javascript in the FreeCodeCamp exercises, it seems to be a lot more lenient/forgiving than Java is. Javascript also seems to be easier to write code in. This makes it more appealing to me than Java, and in return makes it a good programming language in my opinion. However, I've read that Javascript is mainly used to run in browsers, and Java is more defined (which explains why it's less forgiving), so it may not be the best language to learn for software engineering. I do believe, however, that learning these languages are great, or learning any language is very helpful in future endeavors and in learning new languages as well.

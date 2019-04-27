@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Security & Ethics
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-24
+date: 2019-04-19
 labels:
   - Security
   - Privacy

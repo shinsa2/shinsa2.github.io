@@ -15,13 +15,13 @@ labels:
   
   A basic example of a design pattern which i've used in the basics of C++ would be a program of creating shapes. Creating a circle class and using it to createa cylinder class is a simple example, as you could use the circle class for spheres as well. Another easy example of inheritance would be animals. Creating an animal class and having something simple as ```nameAnimal(name)``` and using it as a super for animals such as cat or dog, then naming the cat or dog, and having separate methods inside the cat and dog classes such as 
 ```
-meow() {
+void meow() {
     cout << "meow" << endl;
 }
 ```
 or
 ```
-bark() {
+void bark() {
     cout << "bark" << endl;
 }
 ```

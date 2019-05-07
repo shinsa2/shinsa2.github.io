@@ -22,21 +22,20 @@ The main parts I made were: the admin pages, where only admin are allowed to edi
 
 <h2>Screenshots</h2>
 <h3>Add Vendor Page</h3>
-<img src="images/add-vendor1.png">
-<img src="images/add-vendor2.png">
+<img src="\images\add-vendor1.png">
+<img src="\images\add-vendor2.png">
 <h3>Pop-up Notification for Confirming Delete (for test vendor)</h3>
-<img src="images/delete-confirm.png">
+<img src="\images\delete-confirm.png">
 <h3>Bert Alert After Successful Delete</h3>
-<img src="images/delete.png">
+<img src="\images\delete.png">
 <h3>Edit Vendor Page</h3>
-<img src="images/edit-vendor1.png">
-<img src="images/edit-vendor2.png">
+<img src="\images\edit-vendor1.png">
+<img src="\images\edit-vendor2.png">
 <h3>Vendors Page</h3>
-<img src="images/vendors.png">
+<img src="\images\vendors.png">
 
-[Ono Manoa Grindz Repo](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
-</br>
-[Project Github Page](https://ono-manoa-grindz.github.io/)
+Source: [Ono Manoa Grindz Repo](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
+Source: [Project Github Page](https://ono-manoa-grindz.github.io/)
 
 
 

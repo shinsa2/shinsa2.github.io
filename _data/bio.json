@@ -56,6 +56,16 @@
         "Javascript",
       ]
     },
+     {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "Meteor",
+        "Semantic-UI",
+        "React",
+      ]
+    },
     {
       "name": "Toolsets/OS",
       "level": "",
@@ -86,6 +96,16 @@
       "gpa": "",
       "courses": [
       ]
+    },
+    {
+      "institution": "Kalani High School, Honolulu, HI",
+      "area": "High School Diploma",
+      "studyType": "",
+      "startDate": "2006",
+      "endDate": "2010",
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "work": [
@@ -98,6 +118,17 @@
       "summary": "",
       "highlights": [
         "Enter private information into system"
+      ]
+    },
+     {
+      "company": "Hedberg, Batara & Vaughan-Sarandi, LLC - Certified Public Accountants",
+      "position": "Key Punching",
+      "website": "http://www.pacxa.com/",
+      "startDate": "2019",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Look over and double check client information in system and enter into current year's database."
       ]
     }
   ],
